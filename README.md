@@ -45,5 +45,5 @@ Best and Free resources to master Java and become a Java Developer in 2025
 ## Projects
 | Topic               | Video Tutorial                                                                                 |
 |---------------------|------------------------------------------------------------------------------------------------|
-| Beginner Projects   | [YouTube](https://www.youtube.com/watch?v=pMR_48AF-A0&list=PL_6klLfS1WqE1-_MJgZiJqAaccjLGHh0H) |
-| Springboot Projects | [YouTube](https://www.youtube.com/watch?v=iBGkJln9BPo&list=PLcs1FElCmEu121gqGwlQt47d0SqNkzSTK) |
+| Beginner Projects   | [YouTube Playlist](https://www.youtube.com/watch?v=pMR_48AF-A0&list=PL_6klLfS1WqE1-_MJgZiJqAaccjLGHh0H) |
+| Springboot Projects | [YouTube Playlist](https://www.youtube.com/watch?v=iBGkJln9BPo&list=PLcs1FElCmEu121gqGwlQt47d0SqNkzSTK) |
