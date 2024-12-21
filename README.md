@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/9119e4cc-6279-4b3f-a00a-9fd103334f03)# Java-Developer-Roadmap
-Best and Free resources to master Java and become a Java Developer in 2025
+# Java Super Guide
+--
 
 ## Core Java
 | Topic                       | Article                                                                                      | Video Tutorial                                              |
