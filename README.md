@@ -1,4 +1,4 @@
-# Java-Developer-Roadmap
+![image](https://github.com/user-attachments/assets/9119e4cc-6279-4b3f-a00a-9fd103334f03)# Java-Developer-Roadmap
 Best and Free resources to master Java and become a Java Developer in 2025
 
 ## Core Java
@@ -47,3 +47,6 @@ Best and Free resources to master Java and become a Java Developer in 2025
 |---------------------|------------------------------------------------------------------------------------------------|
 | Beginner Projects   | [YouTube Playlist](https://www.youtube.com/watch?v=pMR_48AF-A0&list=PL_6klLfS1WqE1-_MJgZiJqAaccjLGHh0H) |
 | Springboot Projects | [YouTube Playlist](https://www.youtube.com/watch?v=iBGkJln9BPo&list=PLcs1FElCmEu121gqGwlQt47d0SqNkzSTK) |
+| JSP Projects        | [YouTube Playlist](https://www.youtube.com/watch?v=oiRq01AMeSA&list=PLF7Fmglq6SPD9jVwDt-mbYiaewF-pPYZS) |
+| Hibernate Projects  | [YouTube Playlist](https://www.youtube.com/watch?v=QV9lphv8pQk&list=PL67o-8RVe-d_c38cfntfTodAk9NJYHFpq) |
+
