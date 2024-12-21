@@ -43,7 +43,7 @@ Best and Free resources to master Java and become a Java Developer in 2025
 | Spring Boot         | [Javatpoint](https://www.javatpoint.com/spring-boot-tutorial) | [YouTube](https://www.youtube.com/watch?v=BGTx91t8q50&list=PLsyeobzWxl7q6oUFts2erdot6jxF_lisP) |
 
 ## Projects
-| Topic               | Video Tutorial                                                                                 |   |
-|---------------------|------------------------------------------------------------------------------------------------|---|
-| Beginner Projects   | [YouTube](https://www.youtube.com/watch?v=pMR_48AF-A0&list=PL_6klLfS1WqE1-_MJgZiJqAaccjLGHh0H) |   |
-| Springboot Projects | [YouTube](https://www.youtube.com/watch?v=iBGkJln9BPo&list=PLcs1FElCmEu121gqGwlQt47d0SqNkzSTK) |   |
+| Topic               | Video Tutorial                                                                                 |
+|---------------------|------------------------------------------------------------------------------------------------|
+| Beginner Projects   | [YouTube](https://www.youtube.com/watch?v=pMR_48AF-A0&list=PL_6klLfS1WqE1-_MJgZiJqAaccjLGHh0H) |
+| Springboot Projects | [YouTube](https://www.youtube.com/watch?v=iBGkJln9BPo&list=PLcs1FElCmEu121gqGwlQt47d0SqNkzSTK) |
